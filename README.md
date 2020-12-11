@@ -16,13 +16,13 @@
 
 > {
 
-    "GrLivArea" : "0",
+    "GrLivArea" : "1795",
     
-    "TotalBsmtSF" : "0",
+    "TotalBsmtSF" : "1777",
     
-    "GarageArea" : "0",
+    "GarageArea" : "534",
     
-    "YearBuilt" : "0"
+    "YearBuilt" : "2002"
 > }
 
 5. Post the link on POSTMAN with valid JSON inputs
