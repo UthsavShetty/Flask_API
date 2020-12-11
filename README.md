@@ -12,7 +12,7 @@
 > app>python app.py
 
 4. Post the link on POSTMAN with valid JSON inputs
-> http://localhost:5000/houseprice
+> GET - http://localhost:5000/houseprice
 
 > {
 
@@ -26,7 +26,7 @@
 > }
 
 5. Post the link on POSTMAN with valid JSON inputs
-> http://localhost:5000/houselookup
+> GET -  http://localhost:5000/houselookup
 
 > {
     "x1" : "50",
