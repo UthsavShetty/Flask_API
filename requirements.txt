@@ -1,0 +1,12 @@
+Flask==1.1.1
+Flask-HTTPAuth==3.3.0
+Flask-RESTful==0.3.7
+flask-restful-swagger==0.20.1
+Flask-WTF==0.14.2
+requests==2.22.0
+requests-futures==1.0.0
+numpy==1.16.4
+python-dotenv
+pandas
+
+
